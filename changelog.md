@@ -5,3 +5,5 @@
 
 ## Week 6, Monday 8/April [Henry]
 - I still see no code, only 3 files (zip, changelog, readme)
+- Given the requirement for at least 2 work days per week, at this point you are unlikely to pass. So if you are going to withdraw from the unit, please do so quickly.
+
