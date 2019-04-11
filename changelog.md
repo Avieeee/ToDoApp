@@ -7,3 +7,8 @@
 - I still see no code, only 3 files (zip, changelog, readme)
 - Given the requirement for at least 2 work days per week, at this point you are unlikely to pass. So if you are going to withdraw from the unit, please do so quickly.
 
+## Week 6, Thursday 11/April [Henry]
+- This directory structure seems quite a mess? What is "Week 6"? How do I run this project? 
+- Why are there no updates to this changelog file?
+
+
