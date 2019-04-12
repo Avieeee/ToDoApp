@@ -11,4 +11,8 @@
 - This directory structure seems quite a mess? What is "Week 6"? How do I run this project? 
 - Why are there no updates to this changelog file?
 
+##week 6, tuesday 
+-updated code in notepad file. Still some work to do and there are plenty of errors. Will be fixing it in the coming days and upload it by Friday evening
 
+## week 6, Friday.
+-Update readme file. 
